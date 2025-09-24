@@ -37,7 +37,7 @@ class _WidgetDemoState extends State<WidgetDemo> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Hari 2 - Widget Dasar")),
+      appBar: AppBar(title: const Text("Hari 2 - Widget Ahli")),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
